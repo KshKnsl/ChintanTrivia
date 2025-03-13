@@ -2,14 +2,8 @@
 
 Chintan-Trivia is a web-based quiz application that allows users to create, manage, and participate in quizzes. The project's aim is to generate AI-driven quizzes and transform how students and teachers interact in the classroom, enabling teachers to easily generate quizzes with the help of our AI assistant.
 
-## Table of Contents
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Overview
+![image](https://github.com/user-attachments/assets/bfd26d4c-1476-42d5-9a2d-ffd44cd410e0)
 
 ## Features
 - **User Authentication**: Users can sign up, log in, and log out.
